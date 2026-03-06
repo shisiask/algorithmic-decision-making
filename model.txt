@@ -1,0 +1,41 @@
+Juvenile felony count = 0: -1.0443030073121247
+Juvenile felony count = 1: 0.9429603141161643
+Juvenile felony count = 2: -1.0404482663256278
+Juvenile felony count >= 3: 2.9721349949852347
+Juvenile misdemeanor count = 0: -0.15556711005474605
+Juvenile misdemeanor count = 1: 0.6168127445878605
+Juvenile misdemeanor count = 2: 2.315058755664639
+Juvenile misdemeanor count >= 3: -0.9459603547341547
+Juvenile other offense count = 0: -1.5394664660212265
+Juvenile other offense count = 1: 1.703715139323639
+Juvenile other offense count = 2: -1.0722952010453866
+Juvenile other offense count >= 3: 2.7383905632065844
+Prior conviction count = 0: -0.6297669050119299
+Prior conviction count = 1: -0.3772719919059918
+Prior conviction count = 2: 0.30010407305090575
+Prior conviction count >= 3: 2.537278859330615
+Charge degree = felony: 0.9173681743479958
+Charge degree = misdemeanor: 0.9129758611156518
+Charge description = no charge: -0.6958611609132928
+Charge description = license issue: -0.42136318400556017
+Charge description = public disturbance: 0.9591825651047411
+Charge description = negligence: -0.12750714648068334
+Charge description = drug related: 0.49530951376567
+Charge description = alcohol related: -1.2380485507621315
+Charge description = weapons related: 1.3008337218679855
+Charge description = evading arrest: 0.33972626273675083
+Charge description = nonviolent harm: 1.221619984254658
+Charge description = theft/fraud/burglary: 0.9079667972404755
+Charge description = lewdness/prostitution: -0.7496940283373554
+Charge description = violent crime: -0.16182073900762606
+Age < 25: 0
+Age >= 25 and <=45: 0
+Age > 45: 0
+Gender = Female: 0
+Gender = Male: 0
+Race = Other: 0
+Race = Asian: 0
+Race = Native American: 0
+Race = Caucasian: 0
+Race = Hispanic: 0
+Race = African American: 0
